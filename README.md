@@ -9,13 +9,13 @@
 </div>
 
 ### About Me
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17px"/> Hi, I'm Ahmed Jubaer Ferdous, a current 3rd year Computer Science student at [McMaster University](https://www.mcmaster.ca/) 📍 Hamilton, Ontario, Canada.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17px"/> Hi, I'm Ahmed Jubaer Ferdous, a 3rd year Computer Science student at [McMaster University](https://www.mcmaster.ca/) 📍 Hamilton, Ontario, Canada.
 
 📕 I'm an avid reader. I like non-fiction,  mostly - productivity, business, finance and self-help books. Besides that, I occasionally enjoy diving into history books as well. 
 
-🏋️‍♂️ My athletic interest include hitting the gym regularly.
+🏋️‍♂️ My athletic interest includes hitting the gym regularly.
 
-⚽ I'm a huge soccer(football) fan, especially of the Spanish club FC Barcelona. I've been a loyal fan since 2013.
+⚽ I'm a huge soccer(football) enthusiast, especially of the Spanish club FC Barcelona. I've been a loyal fan since 2013.
 
 Feel free to contact me on my 
 <a href="https://www.linkedin.com/in/ahmed-jubaer-ferdous/">
